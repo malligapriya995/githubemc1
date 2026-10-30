@@ -1,1 +1,3 @@
 created test1.txt file
+Hello GitHub!
+This is my first Git practice.
